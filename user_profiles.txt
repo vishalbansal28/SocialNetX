@@ -1,0 +1,6 @@
+user4 pass4 Emily 30 Australia Music FRIENDS: user5 user3 
+user3 pass3 Bob 28 Canada Travelling Sports FRIENDS: user1 user2 user4 
+user5 pass5 Michael 27 Germany Cooking Travelling FRIENDS: user6 user4 
+user6 1234 Vishal 22 India Sports Music FRIENDS: user5 user2 
+user1 pass1 John 25 USA Sports Music Reading FRIENDS: user2 user3 
+user2 pass2 Alice 22 UK Music Cooking FRIENDS: user6 user1 user3 
