@@ -34,9 +34,6 @@ The Social Network User Profile Management System is a C++ project that provides
 
 - C++ Compiler
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
